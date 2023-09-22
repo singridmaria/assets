@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+  
+}
+h2{
+    text-align: center;
+    color: brown;
+}
+
+.my-class {
+    background-color: red;
+    border: 1px solid black;
+    color:black;
+    text-align: center;
+}
